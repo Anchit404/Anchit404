@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anchit 👋
 
-<!--
-**Anchit404/Anchit404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I’m a software developer passionate about building **full-stack web applications** and exploring **AI-powered software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical products, learning how systems work under the hood, and continuously improving my problem-solving and engineering skills.
+
+### Tech Stack
+
+**Frontend:** React, JavaScript, HTML, CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**AI:** RAG, Embeddings, Vector Search, LLMs
+**Tools:** Git, GitHub, Redis, BullMQ, Docker
+
+### Currently
+
+* Building full-stack applications
+* Learning deeper backend & system design concepts
+* Exploring AI engineering and LLM applications
+* Improving DSA and problem-solving skills
